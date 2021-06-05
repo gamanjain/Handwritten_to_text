@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240916083538",
+    "project_id": "handwritten-to-text-8934b",
+    "storage_bucket": "handwritten-to-text-8934b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240916083538:android:7ec609aa0b4fff3df5c08b",
+        "android_client_info": {
+          "package_name": "com.example.handwritten_to_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240916083538-63i1erg4rqlv694mo665knjps8mnat8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNqfjhu8_jg-tCmTqDxBroQwuDsobeMSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240916083538-63i1erg4rqlv694mo665knjps8mnat8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PdfViewer">
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/sharePdf"
+            android:layout_width="142dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="240dp"
+            android:layout_weight="1"
+            android:background="@drawable/buttonbg"
+            android:drawableLeft="@drawable/ic_baseline_share_24"
+            android:padding="5dp"
+            android:text="Share PDF" />
+
+        <!--<Button
+            android:id="@+id/UploadPdf"
+            android:layout_width="142dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="90dp"
+            android:layout_marginLeft="240dp"
+            android:layout_weight="1"
+            android:background="@drawable/buttonbg"
+            android:drawableLeft="@drawable/ic_baseline_cloud_upload_24"
+            android:padding="5dp"
+            android:text="Upload PDF" />-->
+    </com.github.barteksc.pdfviewer.PDFView>
+
+</LinearLayout>

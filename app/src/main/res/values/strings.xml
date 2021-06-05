@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Handwritten_to_text</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_the_otp_sent_to_your_mobile_number">Enter the OTP sent to your Mobile Number</string>
+</resources>
