@@ -1,0 +1,30 @@
+com/example/handwritten_to_text/Verification.java
+ com.example.handwritten_to_text.Verification
+ com.example.handwritten_to_text.Verification$1
+ com.example.handwritten_to_text.Verification$1$1
+ com.example.handwritten_to_text.Verification$2
+ com.example.handwritten_to_text.Verification$3
+ com.example.handwritten_to_text.Verification$4
+ com.example.handwritten_to_text.Verification$5
+ com.example.handwritten_to_text.Verification$6
+ com.example.handwritten_to_text.Verification$7
+com/example/handwritten_to_text/BuildConfig.java
+ com.example.handwritten_to_text.BuildConfig
+com/example/handwritten_to_text/PdfViewer.java
+ com.example.handwritten_to_text.PdfViewer
+ com.example.handwritten_to_text.PdfViewer$1
+com/example/handwritten_to_text/LoginPage.java
+ com.example.handwritten_to_text.LoginPage
+ com.example.handwritten_to_text.LoginPage$1
+ com.example.handwritten_to_text.LoginPage$1$1
+com/example/handwritten_to_text/MainApp.java
+ com.example.handwritten_to_text.MainApp
+ com.example.handwritten_to_text.MainApp$1
+ com.example.handwritten_to_text.MainApp$2
+ com.example.handwritten_to_text.MainApp$3
+ com.example.handwritten_to_text.MainApp$4
+ com.example.handwritten_to_text.MainApp$5
+ com.example.handwritten_to_text.MainApp$6
+ com.example.handwritten_to_text.MainApp$7
+ com.example.handwritten_to_text.MainApp$8
+ com.example.handwritten_to_text.MainApp$9
